@@ -226,7 +226,7 @@ if __name__ == "__main__":
     
     # Process an audio file
     generator.process_audio(
-        audio_path="/Users/karany/Desktop/Desktop/folder/python_ka_kaam/song_sample.mp3",
-        output_path="output_captions.srt",
+        audio_path="/Users/karany/Desktop/Desktop/folder/python_ka_kaam/audio.mp3",
+        output_path="output_captions_s.srt",
         language_code='hi'
     )
